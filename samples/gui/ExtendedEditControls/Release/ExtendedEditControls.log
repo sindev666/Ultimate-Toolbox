@@ -1,0 +1,204 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(39,5): warning MSB4211: The property "IntermediateOutputPath" is being set to a value for the first time, but it was already consumed at "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (38,5)".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets(30,5): warning MSB4211: The property "DebugType" is being set to a value for the first time, but it was already consumed at "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets (29,5)".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(373,5): warning MSB4211: The property "CleanFile" is being set to a value for the first time, but it was already consumed at "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (38,5)".
+  StdAfx.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Copytree.cpp
+  Dir.cpp
+  Dstrlist.cpp
+  File.cpp
+  MFCToolBar.cpp
+  OX3DTabView.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OX3DTabView.cpp(407,14): warning C4456: declaration of 'pWnd' hides previous local declaration
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OX3DTabView.cpp(371,8): message : see declaration of 'pWnd'
+  OXAdvancedAssert.cpp
+  OXAdvancedAssertMail.cpp
+  OXBitmapButton.cpp
+  OXBitmapMenu.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\include\OXMenuBar.h(137,1): warning C4005: 'AFX_IDW_MENUBAR': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxres.h(124): message : see previous definition of 'AFX_IDW_MENUBAR'
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXBitmapMenu.cpp(755,16): warning C4456: declaration of 'bBefore' hides previous local declaration
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXBitmapMenu.cpp(692,7): message : see declaration of 'bBefore'
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXBitmapMenu.cpp(1246,21): warning C4456: declaration of 'mii' hides previous local declaration
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXBitmapMenu.cpp(1194,15): message : see declaration of 'mii'
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXBitmapMenu.cpp(1264,21): warning C4456: declaration of 'mii' hides previous local declaration
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXBitmapMenu.cpp(1194,15): message : see declaration of 'mii'
+  OXBitmapMenuOrganizer.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXBitmapMenuOrganizer.cpp(1216,16): warning C4457: declaration of 'hWnd' hides function parameter
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXBitmapMenuOrganizer.cpp(1054,56): message : see declaration of 'hWnd'
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXBitmapMenuOrganizer.cpp(1239,17): warning C4456: declaration of 'hWnd' hides previous local declaration
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXBitmapMenuOrganizer.cpp(1216,11): message : see declaration of 'hWnd'
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXBitmapMenuOrganizer.cpp(2210,5): warning C4456: declaration of 'nIndex' hides previous local declaration
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXBitmapMenuOrganizer.cpp(2202,7): message : see declaration of 'nIndex'
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXBitmapMenuOrganizer.cpp(2448,16): warning C4456: declaration of 'hWnd' hides previous local declaration
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXBitmapMenuOrganizer.cpp(2420,8): message : see declaration of 'hWnd'
+  OXBrowseColorEdit.cpp
+  OXBrowseDirEdit.cpp
+  OXCalculatorCtrl.cpp
+  OXCalculatorEdit.cpp
+  OXColorPickerButton.cpp
+  OXColorPickerCtrl.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\Source\OXColorPickerCtrl.cpp(346,30): warning C4456: declaration of 'brushFrame' hides previous local declaration
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\Source\OXColorPickerCtrl.cpp(334,9): message : see declaration of 'brushFrame'
+  OXCoolToolBar.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXCoolToolBar.cpp(1178,39): warning C4456: declaration of 'descriptor' hides previous local declaration
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXCoolToolBar.cpp(1168,28): message : see declaration of 'descriptor'
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXCoolToolBar.cpp(2999,8): warning C4996: 'GetVersionExA': was declared deprecated
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXCoolToolBar.cpp(3471,5): warning C4456: declaration of 'i' hides previous local declaration
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXCoolToolBar.cpp(3457,8): message : see declaration of 'i'
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXCoolToolBar.cpp(3516,5): warning C4456: declaration of 'i' hides previous local declaration
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXCoolToolBar.cpp(3457,8): message : see declaration of 'i'
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXCoolToolBar.cpp(3839,18): warning C4456: declaration of 'pos' hides previous local declaration
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXCoolToolBar.cpp(3831,12): message : see declaration of 'pos'
+  OXDirDlg.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\Source\OXDirDlg.cpp(158,2): warning C4996: 'GetVersionExA': was declared deprecated
+  oxdocktabctrl.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\oxdocktabctrl.cpp(164,24): warning C4457: declaration of 'pBar' hides function parameter
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\oxdocktabctrl.cpp(112,45): message : see declaration of 'pBar'
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\oxdocktabctrl.cpp(220,34): warning C4456: declaration of 'pSizeBar' hides previous local declaration
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\oxdocktabctrl.cpp(195,22): message : see declaration of 'pSizeBar'
+  Generating Code...
+  Compiling...
+  OXDragDockContext.CPP
+  OXEdit.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\Source\OXEdit.cpp(1718,28): warning C4456: declaration of 'nDecimalDelimiterPos' hides previous local declaration
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\Source\OXEdit.cpp(1626,6): message : see declaration of 'nDecimalDelimiterPos'
+  OXFolderPickerDlg.cpp
+  OXFontPickerButton.cpp
+  OXFrameWndDock.CPP
+  OXHistoryCombo.cpp
+  OXMaskedEdit.cpp
+  OXMDIFloatWnd.cpp
+  OXMenuBar.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\include\OXMenuBar.h(137,1): warning C4005: 'AFX_IDW_MENUBAR': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxres.h(124): message : see previous definition of 'AFX_IDW_MENUBAR'
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXMenuBar.cpp(267,27): warning C4018: '<': signed/unsigned mismatch
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXMenuBar.cpp(2350,18): warning C4456: declaration of 'pos' hides previous local declaration
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXMenuBar.cpp(2338,12): message : see declaration of 'pos'
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXMenuBar.cpp(2575,31): warning C4456: declaration of 'menuItemInfo' hides previous local declaration
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXMenuBar.cpp(2546,16): message : see declaration of 'menuItemInfo'
+  OXPhysicalEdit.cpp
+  OXPhysicalEditEx.cpp
+  OXPopupBarCtrl.cpp
+  OXRectTracker.cpp
+  OXSeparator.cpp
+  OXShellFolderTree.cpp
+  OXShellNamespaceNavigator.cpp
+  OXShortcutBar.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXShortcutBar.cpp(1593,14): warning C4456: declaration of 'nItem' hides previous local declaration
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXShortcutBar.cpp(1574,7): message : see declaration of 'nItem'
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXShortcutBar.cpp(1784,17): warning C4457: declaration of 'lParam' hides function parameter
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXShortcutBar.cpp(1732,51): message : see declaration of 'lParam'
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXShortcutBar.cpp(1885,24): warning C4456: declaration of 'nmshb' hides previous local declaration
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXShortcutBar.cpp(1741,16): message : see declaration of 'nmshb'
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXShortcutBar.cpp(1923,22): warning C4456: declaration of 'nmshb' hides previous local declaration
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXShortcutBar.cpp(1741,16): message : see declaration of 'nmshb'
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXShortcutBar.cpp(7663,21): warning C4457: declaration of 'hGroup' hides function parameter
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXShortcutBar.cpp(7598,44): message : see declaration of 'hGroup'
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXShortcutBar.cpp(7787,23): warning C4457: declaration of 'hGroup' hides function parameter
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXShortcutBar.cpp(7710,49): message : see declaration of 'hGroup'
+  OXSizeCtrlBar.CPP
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXSizeCtrlBar.CPP(507,17): warning C4456: declaration of 'style' hides previous local declaration
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXSizeCtrlBar.CPP(483,8): message : see declaration of 'style'
+  OXSizeDockBar.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\include\OXMenuBar.h(137,1): warning C4005: 'AFX_IDW_MENUBAR': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxres.h(124): message : see previous definition of 'AFX_IDW_MENUBAR'
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXSizeDockBar.cpp(509,19): warning C4456: declaration of 'pVoid' hides previous local declaration
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXSizeDockBar.cpp(238,9): message : see declaration of 'pVoid'
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXSizeDockBar.cpp(510,25): warning C4456: declaration of 'pBar' hides previous local declaration
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXSizeDockBar.cpp(239,16): message : see declaration of 'pBar'
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXSizeDockBar.cpp(1058,3): warning C4456: declaration of 'i' hides previous local declaration
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXSizeDockBar.cpp(997,6): message : see declaration of 'i'
+  OXSizeToolBar.cpp
+  Generating Code...
+  Compiling...
+  OXSkinnedComboBox.cpp
+  OXSkinnedSpinCtrl.cpp
+  OXSkinnedTabCtrl.cpp
+  OXSkins.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\include\OXMenuBar.h(137,1): warning C4005: 'AFX_IDW_MENUBAR': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxres.h(124): message : see previous definition of 'AFX_IDW_MENUBAR'
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXSkins.cpp(30,2): warning C4996: 'GetVersionExA': was declared deprecated
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXSkins.cpp(1024,9): warning C4996: 'GetVersion': was declared deprecated
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXSkins.cpp(1096,9): warning C4996: 'GetVersion': was declared deprecated
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXSkins.cpp(3979,9): warning C4996: 'GetVersion': was declared deprecated
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXSkins.cpp(8778,9): warning C4996: 'GetVersion': was declared deprecated
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXSkins.cpp(8815,9): warning C4996: 'GetVersion': was declared deprecated
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXSkins.cpp(9101,18): warning C4456: declaration of 'rectCombo' hides previous local declaration
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXSkins.cpp(9080,8): message : see declaration of 'rectCombo'
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXSkins.cpp(9219,9): warning C4996: 'GetVersion': was declared deprecated
+  OXSplitterRect.cpp
+  OXStatic.cpp
+  OXSzMiniDockFrmWnd.cpp
+  OXTabClientWnd.cpp
+  OXToolTipCtrl.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\multimon.h(185,5): warning C4996: 'GetVersionExA': was declared deprecated
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\Source\OXToolTipCtrl.cpp(212,26): warning C4456: declaration of 'pt' hides previous local declaration
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\Source\OXToolTipCtrl.cpp(194,12): message : see declaration of 'pt'
+  OXUxTheme.cpp
+  Path.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\Source\Path.cpp(590,29): warning C4244: '=': conversion from 'DWORD' to 'BYTE', possible loss of data
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\Source\Path.cpp(882,20): warning C4456: declaration of 'nextToken' hides previous local declaration
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\Source\Path.cpp(864,10): message : see declaration of 'nextToken'
+  UTBStrOp.cpp
+  HtmlCtrl.cpp
+  UTSampleAbout.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\Source\UTSampleAbout\UTSampleAbout.cpp(76,33): warning C4840: non-portable use of class 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' as an argument to a variadic function
+          with
+          [
+              _CharType=char
+          ]
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\Source\UTSampleAbout\UTSampleAbout.cpp(76,33): message : 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>::CStringT' is non-trivial
+          with
+          [
+              _CharType=char
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include\cstringt.h(1026,2): message : see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>::CStringT'
+          with
+          [
+              _CharType=char
+          ]
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\Source\UTSampleAbout\UTSampleAbout.cpp(76,33): message : the constructor and destructor will not be called; a bitwise copy of the class will be passed as the argument
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxstr.h(87,43): message : see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+  Xstatus4.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\Xstatus4.cpp(511,27): warning C4456: declaration of 'rect' hides previous local declaration
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\Xstatus4.cpp(448,9): message : see declaration of 'rect'
+  Xstring.cpp
+  CurrencyEditDlg.cpp
+  DropEditDlg.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\samples\gui\ExtendedEditControls\DropEditDlg.cpp(28,42): warning C4840: non-portable use of class 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' as an argument to a variadic function
+          with
+          [
+              _CharType=char
+          ]
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\samples\gui\ExtendedEditControls\DropEditDlg.cpp(28,42): message : 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>::CStringT' is non-trivial
+          with
+          [
+              _CharType=char
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include\cstringt.h(1026,2): message : see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>::CStringT'
+          with
+          [
+              _CharType=char
+          ]
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\samples\gui\ExtendedEditControls\DropEditDlg.cpp(28,42): message : the constructor and destructor will not be called; a bitwise copy of the class will be passed as the argument
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxstr.h(87,43): message : see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+  EditExtensionsSht.cpp
+  ExtendedEditControls.cpp
+  Generating Code...
+  Compiling...
+  ExtendedEditDlg.cpp
+  MaskedEditDlg.cpp
+  NumericEditDlg.cpp
+  PhysicalEditDlg.cpp
+  Generating Code...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1363,5): warning MSB8012: TargetPath(C:\Mark\ATI_Mark_Software\Ultimate Toolbox\samples\gui\ExtendedEditControls\Release\ExtendedEditControls.exe) does not match the Linker's OutputFile property value (C:\Mark\ATI_Mark_Software\Ultimate Toolbox\samples\gui\ExtendedEditControls\ExtendedEditControls.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  ExtendedEditControls.vcxproj -> C:\Mark\ATI_Mark_Software\Ultimate Toolbox\samples\gui\ExtendedEditControls\Release\ExtendedEditControls.exe

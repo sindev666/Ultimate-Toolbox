@@ -1,0 +1,163 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(39,5): warning MSB4211: The property "IntermediateOutputPath" is being set to a value for the first time, but it was already consumed at "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (38,5)".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets(30,5): warning MSB4211: The property "DebugType" is being set to a value for the first time, but it was already consumed at "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets (29,5)".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(373,5): warning MSB4211: The property "CleanFile" is being set to a value for the first time, but it was already consumed at "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (38,5)".
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  StdAfx.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  VisualStudioLikeDemoView.cpp
+  VisualStudioLikeDemoDoc.cpp
+  VisualStudioLikeDemo.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\include\OXMenuBar.h(137,1): warning C4005: 'AFX_IDW_MENUBAR': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxres.h(124): message : see previous definition of 'AFX_IDW_MENUBAR'
+  TabViewBar.cpp
+  MainFrm.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\include\OXMenuBar.h(137,1): warning C4005: 'AFX_IDW_MENUBAR': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxres.h(124): message : see previous definition of 'AFX_IDW_MENUBAR'
+  ChildFrm.cpp
+  3DTabViewBar.cpp
+  XSTRING.CPP
+  Xstatus4.cpp
+  HtmlCtrl.cpp
+  UTBStrOp.cpp
+  Path.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\Source\Path.cpp(590,29): warning C4244: '=': conversion from 'DWORD' to 'BYTE', possible loss of data
+  OXWorkspaceState.cpp
+  OXUxTheme.cpp
+  OXToolTipCtrl.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\multimon.h(185,5): warning C4996: 'GetVersionExA': was declared deprecated
+  OXTaskbarIcon.cpp
+  OXTabView.cpp
+  OXTabClientWnd.cpp
+  OXSzMiniDockFrmWnd.cpp
+  OXStatic.cpp
+  Generating Code...
+  Compiling...
+  OXSplitterRect.cpp
+  OXSplitterColRowState.cpp
+  OXSplashWndDIB.cpp
+  OXSplashWnd.cpp
+  OXSkins.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\include\OXMenuBar.h(137,1): warning C4005: 'AFX_IDW_MENUBAR': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxres.h(124): message : see previous definition of 'AFX_IDW_MENUBAR'
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXSkins.cpp(30,2): warning C4996: 'GetVersionExA': was declared deprecated
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXSkins.cpp(1024,9): warning C4996: 'GetVersion': was declared deprecated
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXSkins.cpp(1096,9): warning C4996: 'GetVersion': was declared deprecated
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXSkins.cpp(3979,9): warning C4996: 'GetVersion': was declared deprecated
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXSkins.cpp(8778,9): warning C4996: 'GetVersion': was declared deprecated
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXSkins.cpp(8815,9): warning C4996: 'GetVersion': was declared deprecated
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\source\OXSkins.cpp(9219,9): warning C4996: 'GetVersion': was declared deprecated
+  OXSkinnedTabCtrl.cpp
+  OXSkinnedSpinCtrl.cpp
+  OXSkinnedComboBox.cpp
+  OXSizeToolBar.cpp
+  OXSizeDockBar.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\include\OXMenuBar.h(137,1): warning C4005: 'AFX_IDW_MENUBAR': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxres.h(124): message : see previous definition of 'AFX_IDW_MENUBAR'
+  OXSizeDlgBar.cpp
+  oxsizedlgbar.cpp line 84 : VS 2003 may need this symbol defined
+  OXSizeCtrlBar.CPP
+  OXShortkeysOrganizer.cpp
+  OXShortcutBar.cpp
+  OXSeparator.cpp
+  OXScrollWnd.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\Source\OXScrollWnd.cpp(2043,25): warning C4996: 'GetVersion': was declared deprecated
+  OXRegistryValFile.cpp
+  OXRegistryItem.cpp
+  OXRectTracker.cpp
+  OXPreviewDialog.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\Source\OXPreviewDialog.cpp(2354,4): warning C4996: 'GetVersionExA': was declared deprecated
+  Generating Code...
+  Compiling...
+  OXPopupBarCtrl.cpp
+  OXOptionTreeCtrl.cpp
+  OXMultiComboBox.cpp
+  OXMenuBar.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\include\OXMenuBar.h(137,1): warning C4005: 'AFX_IDW_MENUBAR': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxres.h(124): message : see previous definition of 'AFX_IDW_MENUBAR'
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\Source\OXMenuBar.cpp(267,27): warning C4018: '<': signed/unsigned mismatch
+  OXMDIFloatWnd.cpp
+  OXListBoxEx.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\Source\OXListBoxEx.cpp(1438,8): warning C4996: 'GetVersionExA': was declared deprecated
+  OXLayoutManager.cpp
+  OXIteratorRegistryItem.cpp
+  OXIntelliMouse.cpp
+  OXInstanceManager.cpp
+  OXImageListBox.cpp
+  OXHookWnd.cpp
+  OXHistoryCtrl.cpp
+  OXHistoryCombo.cpp
+  OXFrameWndDock.CPP
+  OXFontPickerButton.cpp
+  OXEdit.cpp
+  OXDragDropCommands.cpp
+  OXDragDockContext.CPP
+  OXDocTemplateSpy.cpp
+  Generating Code...
+  Compiling...
+  OXDockTabCtrl.cpp
+  Oxdib.cpp
+  OXCustomizeWorkspaceStatePage.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\include\OXMenuBar.h(137,1): warning C4005: 'AFX_IDW_MENUBAR': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxres.h(124): message : see previous definition of 'AFX_IDW_MENUBAR'
+  OXCustomizeTrayIconPage.cpp
+  OXCustomizeToolbarsPage.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\include\OXMenuBar.h(137,1): warning C4005: 'AFX_IDW_MENUBAR': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxres.h(124): message : see previous definition of 'AFX_IDW_MENUBAR'
+  OXCustomizeTabbedMDIPage.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\include\OXMenuBar.h(137,1): warning C4005: 'AFX_IDW_MENUBAR': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxres.h(124): message : see previous definition of 'AFX_IDW_MENUBAR'
+  OXCustomizeSplashWindowPage.cpp
+  OXCustomizeShortkeysPage.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\include\OXMenuBar.h(137,1): warning C4005: 'AFX_IDW_MENUBAR': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxres.h(124): message : see previous definition of 'AFX_IDW_MENUBAR'
+  OXCustomizePage.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\include\OXMenuBar.h(137,1): warning C4005: 'AFX_IDW_MENUBAR': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxres.h(124): message : see previous definition of 'AFX_IDW_MENUBAR'
+  OXCustomizeManager.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\include\OXMenuBar.h(137,1): warning C4005: 'AFX_IDW_MENUBAR': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxres.h(124): message : see previous definition of 'AFX_IDW_MENUBAR'
+  OXCustomizeIntelliMousePage.cpp
+  OXCustomizeInstanceManagerPage.cpp
+  OXCustomizeCoolControlsPage.cpp
+  OXCustomizeCommandsPage.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\include\OXMenuBar.h(137,1): warning C4005: 'AFX_IDW_MENUBAR': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxres.h(124): message : see previous definition of 'AFX_IDW_MENUBAR'
+  OXCustomizeCaptionPage.cpp
+  OXCustomizeBackgroundPage.cpp
+  OXCoolToolBar.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\Source\OXCoolToolBar.cpp(2999,8): warning C4996: 'GetVersionExA': was declared deprecated
+  OXCoolCtrl.cpp
+  OXCoolControlOrganizer.cpp
+  OXCoolComboBox.cpp
+  Generating Code...
+  Compiling...
+  OXColorPickerCtrl.cpp
+  OXColorPickerButton.cpp
+  OXChildFrameState.cpp
+  OXCaptionPainter.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\Source\OXCaptionPainter.cpp(440,4): warning C4996: 'GetVersionExA': was declared deprecated
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\Source\OXCaptionPainter.cpp(898,5): warning C4302: 'type cast': truncation from 'HRGN' to 'WORD'
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\Source\OXCaptionPainter.cpp(909,4): warning C4302: 'type cast': truncation from 'HRGN' to 'WORD'
+  OXButtonAppearanceDlg.cpp
+  OXBMPFilePickerCombo.cpp
+  OXBitmapMenuOrganizer.cpp
+  OXBitmapMenu.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\include\OXMenuBar.h(137,1): warning C4005: 'AFX_IDW_MENUBAR': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxres.h(124): message : see previous definition of 'AFX_IDW_MENUBAR'
+  OXBitmapButton.cpp
+  OXBackgroundPainter.cpp
+  OXAdvancedAssertMail.cpp
+  OXAdvancedAssert.cpp
+  OX3DTabView.cpp
+  MFCToolBar.cpp
+  FILE.CPP
+  DSTRLIST.CPP
+  DIR.CPP
+  COPYTREE.CPP
+  Generating Code...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1363,5): warning MSB8012: TargetPath(C:\Mark\ATI_Mark_Software\Ultimate Toolbox\samples\advanced\VisualStudioLikeDemo\Debug\VisualStudioLikeDemo.exe) does not match the Linker's OutputFile property value (C:\Mark\ATI_Mark_Software\Ultimate Toolbox\samples\advanced\VisualStudioLikeDemo\Debug\VisualStudioLikeDemo.vcxproj.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1365,5): warning MSB8012: TargetName(VisualStudioLikeDemo) does not match the Linker's OutputFile property value (VisualStudioLikeDemo.vcxproj). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+COPYTREE.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  VisualStudioLikeDemo.vcxproj -> C:\Mark\ATI_Mark_Software\Ultimate Toolbox\samples\advanced\VisualStudioLikeDemo\Debug\VisualStudioLikeDemo.exe

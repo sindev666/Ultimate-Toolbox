@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(39,5): warning MSB4211: The property "IntermediateOutputPath" is being set to a value for the first time, but it was already consumed at "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (38,5)".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets(30,5): warning MSB4211: The property "DebugType" is being set to a value for the first time, but it was already consumed at "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets (29,5)".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(373,5): warning MSB4211: The property "CleanFile" is being set to a value for the first time, but it was already consumed at "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (38,5)".
+  StdAfx.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  OXNotesEditView.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\Source\OXNotesEditView.cpp(808,16): warning C4457: declaration of 'nChar' hides function parameter
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\Source\OXNotesEditView.cpp(792,36): message : see declaration of 'nChar'
+  ChildFrm.cpp
+  MainFrm.cpp
+  Notes.cpp
+  NotesDoc.cpp
+  NotesView.cpp
+  Generating Code...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1363,5): warning MSB8012: TargetPath(C:\Mark\ATI_Mark_Software\Ultimate Toolbox\samples\gui\Notes\ReleaseShared\Notes.exe) does not match the Linker's OutputFile property value (C:\Mark\ATI_Mark_Software\Ultimate Toolbox\samples\gui\Notes\ReleaseShared\Notes.vcxproj.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1365,5): warning MSB8012: TargetName(Notes) does not match the Linker's OutputFile property value (Notes.vcxproj). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  Notes.vcxproj -> C:\Mark\ATI_Mark_Software\Ultimate Toolbox\samples\gui\Notes\ReleaseShared\Notes.exe

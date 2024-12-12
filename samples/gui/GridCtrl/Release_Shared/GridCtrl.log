@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(39,5): warning MSB4211: The property "IntermediateOutputPath" is being set to a value for the first time, but it was already consumed at "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (38,5)".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets(30,5): warning MSB4211: The property "DebugType" is being set to a value for the first time, but it was already consumed at "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets (29,5)".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(373,5): warning MSB4211: The property "CleanFile" is being set to a value for the first time, but it was already consumed at "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (38,5)".
+  stdafx.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  oxgridedit.cpp
+  OXGridHdr.cpp
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\Source\OXGridHdr.cpp(361,18): warning C4456: declaration of 'hditem' hides previous local declaration
+C:\Mark\ATI_Mark_Software\Ultimate Toolbox\Source\OXGridHdr.cpp(351,11): message : see declaration of 'hditem'
+  OXGridList.cpp
+  OXUxTheme.cpp
+  GridCdoc.cpp
+  GridCtrl.cpp
+  GridCvw.cpp
+  mainfrm.cpp
+  Generating Code...
+  GridCtrl.vcxproj -> C:\Mark\ATI_Mark_Software\Ultimate Toolbox\samples\gui\GridCtrl\Release_Shared\GridCtrl.exe
